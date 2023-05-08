@@ -1,0 +1,20 @@
+{
+  "name": "data-visualization-and-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdonoso7/Data-Visualization-and-Analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdonoso7/Data-Visualization-and-Analysis/issues"
+  },
+  "homepage": "https://github.com/jdonoso7/Data-Visualization-and-Analysis#readme"
+}
