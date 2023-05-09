@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jdonoso7/Data-Visualization-and-Analysis/issues"
   },
-  "homepage": "https://github.com/jdonoso7/Data-Visualization-and-Analysis#readme"
+  "homepage": "https://github.com/jdonoso7/Data-Visualization-and-Analysis#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
